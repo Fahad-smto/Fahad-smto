@@ -6,6 +6,13 @@
 
 ### 👨‍💻 About Me
 
+<p>
+  I’m a dedicated and creative MERN Stack Web Developer with a strong passion for building modern, responsive, and user-centric web applications. With hands-on experience in MongoDB, Express.js, React.js, and Node.js, I bring ideas to life through clean architecture, efficient code, and intuitive design.
+
+I thrive in fast-paced environments where innovation, collaboration, and problem-solving are key. From designing sleek front-end interfaces to developing robust back-end systems, I enjoy the full development lifecycle and constantly seek opportunities to grow and adapt in the ever-evolving tech landscape.
+
+</p>
+
 - 🔭 Currently working on: **TowerTrack**  
 - 🌱 Learning: **Next.js**  
 - 🤝 Open to collaborating on: **Food Sharing Web App**  
