@@ -4,7 +4,7 @@
 ---
 <img src="https://media.licdn.com/dms/image/v2/D5616AQH3fx1_wuzyjg/profile-displaybackgroundimage-shrink_350_1400/B56ZiJNsdzHkAY-/0/1754648727816?e=1757548800&v=beta&t=LEuJ190ERN_tWQGoOZd4ZE66noGlMfyXRfreYN_DQv4"   style="border-radius: 50%;" />
 
-### 👨‍💻 About Me
+###  👨‍💻 About Me
 
 <p>
   I’m a dedicated and creative MERN Stack Web Developer with a strong passion for building modern, responsive, and user-centric web applications. With hands-on experience in MongoDB, Express.js, React.js, and Node.js, I bring ideas to life through clean architecture, efficient code, and intuitive design.
