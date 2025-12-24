@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Fahad Khan</h1>
 <h3 align="center">🚀 MERN Stack Web Developer | React.js • Node.js • MongoDB | Building Scalable Full-Stack Applications</h3>
 
----<p align="center">
-  <img src="https://i.ibb.co/qLn7XXbp/your-image-name.jpg" width="100%" />
+<p align="center">
+  <img 
+    src="https://i.ibb.co/qLn7XXbp/your-image-name.jpg"
+    width="100%"
+    alt="Cover Image"
+  />
 </p>
 
 
