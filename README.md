@@ -2,7 +2,7 @@
 <h3 align="center">🚀 MERN Stack Web Developer | React.js • Node.js • MongoDB | Building Scalable Full-Stack Applications</h3>
 
 ---
- <img src="https://media.licdn.com/dms/image/v2/D5616AQH3fx1_wuzyjg/profile-displaybackgroundimage-shrink_350_1400/B56ZiJNsdzHkAY-/0/1754648727816?e=1757548800&v=beta&t=LEuJ190ERN_tWQGoOZd4ZE66noGlMfyXRfreYN_DQv4"   style="border-radius: 50%;" /> 
+ <img src="[https://media.licdn.com/dms/image/v2/D5616AQH3fx1_wuzyjg/profile-displaybackgroundimage-shrink_350_1400/B56ZiJNsdzHkAY-/0/1754648727816?e=1757548800&v=beta&t=LEuJ190ERN_tWQGoOZd4ZE66noGlMfyXRfreYN_DQv4](https://ibb.co.com/qLn7XXbp)"   style="border-radius: 50%;" /> 
 
 *** 👨‍💻 About Me
 
