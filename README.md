@@ -65,7 +65,7 @@ I thrive in fast-paced environments where innovation, collaboration, and problem
 
 ---//---
 
-### 🏆 GitHub Trophy
+## 🏆 GitHub Trophy
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=fahad-smto&theme=onedark&no-frame=true&column=6" />
