@@ -18,7 +18,7 @@ I thrive in fast-paced environments where innovation, collaboration, and problem
 - 💬 Ask me about: React, Node, MongoDB, Firebase, Tailwind  
 - 📫 How to reach me: [fahadkhanprog on LinkedIn](https://www.linkedin.com/in/fahadkhanprog)
 
------
+---
 
 ### 🛠️ Tech Stack
 
