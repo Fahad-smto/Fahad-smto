@@ -47,7 +47,7 @@ I thrive in fast-paced environments where innovation, collaboration, and problem
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahad-smto&layout=compact&theme=react&hide_border=true" width="50%" />
 </p>
 
-------
+---
 
 ### 🔗 Let's Connect
 
