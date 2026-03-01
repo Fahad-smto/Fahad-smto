@@ -12,6 +12,7 @@ I thrive in fast-paced environments where innovation, collaboration, and problem
 
 </p>
   
+- 🔭 Currently working on: **TowerTrack**
 - 🌱 Learning: **Next.js**  
 - 🤝 Open to collaborating on: **Food Sharing Web App**  
 - 💬 Ask me about: React, Node, MongoDB, Firebase, Tailwind  
