@@ -11,8 +11,7 @@
 I thrive in fast-paced environments where innovation, collaboration, and problem-solving are key. From designing sleek front-end interfaces to developing robust back-end systems, I enjoy the full development lifecycle and constantly seek opportunities to grow and adapt in the ever-evolving tech landscape.
 
 </p>
-
-- 🔭 Currently working on: **TowerTrack**  
+  
 - 🌱 Learning: **Next.js**  
 - 🤝 Open to collaborating on: **Food Sharing Web App**  
 - 💬 Ask me about: React, Node, MongoDB, Firebase, Tailwind  
