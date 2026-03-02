@@ -6,7 +6,6 @@
 *** 👨‍💻 About Me
 
 <p>
-  I’m a dedicated and creative MERN Stack Web Developer with a strong passion for building modern, responsive, and user-centric web applications. With hands-on experience in MongoDB, Express.js, React.js, and Node.js, I bring ideas to life through clean architecture, efficient code, and intuitive design.
 
  
 
