@@ -1,92 +1,257 @@
-<div align="center">
+ <div align="center">
+  <!-- ANIMATED HEADER BANNER -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=250&section=header&text=Fahad%20Khan&fontSize=70&fontColor=ffffff&stroke=00c6ff&strokeWidth=1&fontAlignY=35&desc=MERN%20Stack%20Architect%20%7C%20Full-Stack%20Alchemist&descAlignY=55&descSize=20&animation=twinkling" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,15,20&height=220&section=header&text=Fahad%20Khan&fontSize=70&fontColor=fff&fontAlignY=35&desc=Full%20Stack%20MERN%20Wizard%20🪄&descAlignY=60&descSize=22&descColor=61DAFB&animation=fadeIn" />
+  <!-- MAIN TITLE WITH TYPING ANIMATION -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&pause=1000&color=00c6ff&center=true&vCenter=true&width=600&lines=React+%7C+Node.js+%7C+MongoDB+%7C+Express;Building+Scalable+Full-Stack+Apps+%F0%9F%9A%80;Code.+Create.+Innovate.+%F0%9F%92%A1;Always+Learning+%7C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
+  </a>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Building+Digital+Experiences;React+%7C+Next.js+%7C+Node.js;Database+Architecture+%7C+MongoDB;Turning+Coffee+into+Scalable+Code+%E2%98%95" alt="Typing SVG" />
-</a>
+  <br/><br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Scalability%20%26%20UX-blueviolet?style=for-the-badge" />
-</p>
+  <!-- SOCIAL BADGES WITH HOVER ANIMATION -->
+  <a href="https://www.linkedin.com/in/fahadkhanprog"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" /></a>
+  <a href="https://www.facebook.com/fahad.khan.65017/about/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" /></a>
+  <a href="mailto:fahad.khan@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" /></a>
+  <img src="https://komarev.com/ghpvc/?username=fahad-smto&style=for-the-badge&color=00c6ff&label=PROFILE+VIEWS" />
 
----
+  <!-- ANIMATED DIVIDER -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</div>
 
-
-
-## 💫 About Me
-
-I am a passionate **Full-Stack Web Developer** specialized in the **MERN Stack**. I don't just write code; I build solutions that bridge the gap between complex backend logic and pixel-perfect frontend experiences.
-
-- 🔭 I’m currently working on **TowerTrack 🗼**
-- 🌱 I’m currently deep-diving into **Next.js & Server-Side Rendering**
-- 🤝 I’m looking to collaborate on **Open Source & Fintech projects**
-- ⚡ Fun fact: I believe a good cup of coffee is the best debugging tool.
-
----
-
-## 🛠️ My Tech Toolbox
-
-### 🌐 Frontend Mastery
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-
-### ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### 🔧 Tools & Deployment
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
----
-
-## 🚀 Projects Spotlight
-
-| Project | Stack | Description | Status |
-| :--- | :--- | :--- | :--- |
-| **TowerTrack** | MERN | Real-time infrastructure management system. | 🏗️ In Dev |
-| **Bento Food** | React, Firebase | Community-driven food sharing platform. | ✅ Live |
-| **Portfolio v2** | Next.js, Framer | High-performance personal branding site. | 🚀 Shipped |
-
----
-
-## 📊 Performance Metrics
+<!-- ----------------------------------------------------------------------- -->
+<!-- ABOUT ME SECTION WITH CARD STYLE -->
+<!-- ----------------------------------------------------------------------- -->
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"/>
+  👨‍💻 THE CODER'S MANIFESTO
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"/>
+</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahad-smto&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahad-smto&theme=tokyonight&hide_border=true" width="48%" />
+  <table align="center" width="80%">
+    <tr>
+      <td align="center">
+        <br/>
+        <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300">
+        <br/><br/>
+      </td>
+      <td>
+        <pre><code style="font-size: 1.1em; background: #011627; color: #d6deeb; padding: 20px; border-radius: 10px;">
+╔══════════════════════╗
+║     FAHAD.KHAN()     ║
+╚══════════════════════╝
+{
+  status:         "⚡ Online & Building",
+  currentFocus:   "TowerTrack — Telecom Tower Management",
+  learning:       "Next.js 14, TypeScript, Prisma",
+  collaboration:  "🍱 Food Sharing Web App (Open Source)",
+  askMeAbout:     ["React Performance", "API Design", "MongoDB Aggregations"],
+  lifePhilosophy: "First, solve the problem. Then, write the elegant code.",
+  funFact:        "I can center a div AND deploy to production on the same day."
+}
+        </code></pre>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+<!-- ----------------------------------------------------------------------- -->
+<!-- TECH STACK WITH ICONS AND PROGRESS BARS -->
+<!-- ----------------------------------------------------------------------- -->
+<h2 align="center">
+  🛠️ TECHNOLOGY ARSENAL 🛠️
+</h2>
+
+<div align="center">
+  <h3>🚀 Frontend Sorcery</h3>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,tailwind,bootstrap,redux" />
+  <br/>
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+
+  <br/><br/>
+  <h3>⚙️ Backend & Database Mastery</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postman,graphql" />
+  <br/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+
+  <br/><br/>
+  <h3>🧰 DevOps & Tools</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel,heroku" />
+  <br/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</div>
+
+<br/>
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+<!-- ----------------------------------------------------------------------- -->
+<!-- CURRENT PROJECTS SHOWCASE WITH ANIMATED CARDS -->
+<!-- ----------------------------------------------------------------------- -->
+<h2 align="center">
+  🌟 CURRENT ORBIT: PROJECTS IN MOTION 🌟
+</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <div align="center">
+          <h3>🗼 TowerTrack</h3>
+          <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="200px"/>
+          <p><strong>Telecom Tower Management Suite</strong></p>
+          <p>A comprehensive dashboard for monitoring tower health, fuel levels, and maintenance schedules across a nationwide network.</p>
+          <p>
+            <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+            <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+            <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+          </p>
+        </div>
+      </td>
+      <td width="50%">
+        <div align="center">
+          <h3>🍱 FoodShare</h3>
+          <img src="https://media.giphy.com/media/3orieS4jfHJa0yk6la/giphy.gif" width="200px"/>
+          <p><strong>Community Food Sharing Platform</strong></p>
+          <p>Connecting restaurants with surplus food to local shelters and individuals. Reducing waste, one meal at a time. <em>(Open Collab)</em></p>
+          <p>
+            <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+            <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
+            <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+          </p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+<!-- ----------------------------------------------------------------------- -->
+<!-- GITHUB STATS WITH SPECIAL ANIMATIONS -->
+<!-- ----------------------------------------------------------------------- -->
+<h2 align="center">
+  📊 GITHUB ANALYTICS & DYNAMICS 📊
+</h2>
+
+<div align="center">
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=fahad-smto&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&border_radius=15" width="49%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahad-smto&theme=tokyonight&hide_border=true&border_radius=15" width="49%" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahad-smto&layout=pie&theme=tokyonight&hide_border=true&langs_count=8&border_radius=15" width="45%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=fahad-smto&theme=tokyonight&hide_border=true&area=true&custom_title=Contribution%20Graph%20(Last%2031%20Days)" width="52%" />
+  </p>
+</div>
+
+<!-- ----------------------------------------------------------------------- -->
+<!-- TROPHY SHOWCASE -->
+<!-- ----------------------------------------------------------------------- -->
+<h2 align="center">
+  🏆 ACHIEVEMENT UNLOCKED: PROFILE TROPHIES 🏆
+</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fahad-smto&theme=tokyonight&no-frame=true&column=6&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+</div>
+
+<br/>
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+<!-- ----------------------------------------------------------------------- -->
+<!-- DYNAMIC QUOTE AND WAKATIME -->
+<!-- ----------------------------------------------------------------------- -->
+<h2 align="center">
+  💡 DAILY INSPIRATION & METRICS 💡
+</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="60%">
+        <a href="https://github.com/fahad-smto">
+          <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+        </a>
+      </td>
+      <td width="40%">
+        <!-- You can replace this with actual WakaTime stats if you use it -->
+        <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200px"/>
+        <p><em>Coding fuel: ☕ & 🎧</em></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+<!-- ----------------------------------------------------------------------- -->
+<!-- CONNECT WITH ME SECTION -->
+<!-- ----------------------------------------------------------------------- -->
+<h2 align="center">
+  🌐 LET'S CONNECT AND COLLABORATE 🌐
+</h2>
+
+<div align="center">
+  <p><em>The best solutions come from great conversations.</em></p>
+  <br/>
+  
+  <a href="https://www.linkedin.com/in/fahadkhanprog">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/fahad.khan.65017/about/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="mailto:fahad.khan@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+
+  <br/><br/>
+  <details>
+    <summary><strong>📱 Click for more contact methods</strong></summary>
+    <br/>
+    <p>📞 Discord: <code>fahad_dev</code></p>
+    <p>🐦 Twitter/X: <code>@fahad_smto</code></p>
+    <p>📧 Alt Email: <code>dev.fahad@proton.me</code></p>
+  </details>
+</div>
+
+<br/>
+
+<!-- ----------------------------------------------------------------------- -->
+<!-- FOOTER WITH SNAKE ANIMATION -->
+<!-- ----------------------------------------------------------------------- -->
+<div align="center">
+  <h3>🐍 Watch the snake eat my contributions! 🐍</h3>
+  <img src="https://github.com/fahad-smto/fahad-smto/blob/output/github-contribution-grid-snake-dark.svg?raw=true" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahad-smto&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=fahad-smto&theme=tokyonight&no-frame=true&column=4" width="48%" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=150&section=footer&text=Keep%20Coding%20%E2%9D%A4%EF%B8%8F%20Keep%20Building&fontSize=30&fontColor=ffffff&animation=fadeIn" />
 </div>
 
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/fahadkhanprog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahadkhan" height="30" width="40" /></a>
-<a href="https://fb.com/fahad.khan.65017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fahadkhan" height="30" width="40" /></a>
-<a href="mailto:your.email@example.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="fahadkhan" height="30" width="30" /></a>
-</p>
-
-<br />
-
+<!-- LAST ANIMATED VISITOR BADGE -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,15,20&height=120&section=footer&animation=fadeIn" />
-
+  <img src="https://profile-counter.glitch.me/fahad-smto/count.svg?" />
 </div>
