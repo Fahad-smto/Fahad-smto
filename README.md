@@ -1,44 +1,33 @@
- <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Fahad%20Khan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Full%20Stack%20Engineer&descAlignY=60&descSize=20" />
-
-</div>
-
----
-
 <div align="center">
 
-# 👋 Hello Developers! I'm Fahad Khan
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Fahad%20Khan&fontSize=52&fontColor=fff&fontAlignY=36&desc=MERN%20Stack%20Web%20Developer&descAlignY=58&descSize=18&descColor=61DAFB&animation=fadeIn" />
 
-### 🚀 MERN Stack Developer | Passionate Problem Solver | Lifelong Learner
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=React+%7C+Node.js+%7C+MongoDB+%7C+Express;Building+Scalable+Full-Stack+Apps+%F0%9F%9A%80;Next.js+%7C+Tailwind+%7C+Firebase;Always+Learning+%7C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;React+%7C+Node+%7C+MongoDB+%7C+Express;Building+Scalable+Web+Applications;Always+Learning+New+Technologies;Turning+Ideas+Into+Reality+%F0%9F%9A%80" />
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahadkhanprog)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/fahad.khan.65017/about/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fahadkhan@example.com)
+![Profile Views](https://komarev.com/ghpvc/?username=fahad-smto&style=for-the-badge&color=0e75b6)
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 ```javascript
 const fahad = {
-  name: "Fahad Khan",
-  role: "Full Stack MERN Developer",
-  location: "Bangladesh",
-  currentFocus: "Building scalable full stack applications",
-  currentlyLearning: "Next.js and advanced backend architecture",
-  askMeAbout: [
-    "React",
-    "Node.js",
-    "MongoDB",
-    "Express",
-    "Firebase",
-    "Tailwind CSS"
-  ],
-  hobbies: [
-    "Coding",
-    "Learning new technologies",
-    "Building projects"
-  ],
-  funFact: "I turn coffee ☕ into scalable web apps 🚀"
-}
+  🚀 role: "MERN Stack Web Developer",
+  💼 currentWork: "TowerTrack 🗼 - Full Stack Developer",
+  🌟 learning: ["Next.js ⚡", "TypeScript", "GraphQL"],
+  🤝 openToCollab: "Food Sharing Web App 🍱 & more",
+  💬 askMeAbout: ["React", "Node.js", "MongoDB", "Firebase", "Tailwind", "Full-Stack Architecture"],
+  🎯 funFact: "I turn ☕ into scalable web apps! ☕➡️🚀",
+  🏠 location: "Dhaka, Bangladesh",
+  🌍 languages: ["JavaScript", "TypeScript", "Python"],
+  💪 goals: "Building impactful web solutions that scale"
+};
