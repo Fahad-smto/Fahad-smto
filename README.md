@@ -472,6 +472,6 @@ MongoDB     : ████████░░░░ 68%
 
 <!-- LAST ANIMATED VISITOR BADGE -->
 <div align="center">
-  <img src="https://profile-counter.glitch.me/fahad-smto/count.svg?" />
+ 
   <p>Thanks for visiting! 🙏</p>
 </div>
