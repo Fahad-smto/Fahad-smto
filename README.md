@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&pause=1000&color=00c6ff&center=true&vCenter=true&width=700&lines=React+%7C+Node.js+%7C+MongoDB+%7C+Express;MERN+Stack+Specialist+%F0%9F%9A%80;Building+Scalable+Full-Stack+Apps;FoodShare+%7C+TowerTrack+%7C+Open+Source;Code.+Create.+Innovate.+%F0%9F%92%A1" alt="Typing SVG" />
   </a>
 
-  <br/><br/>
+  
 
   <!-- SOCIAL BADGES WITH HOVER ANIMATION -->
   <a href="https://www.linkedin.com/in/fahadkhanprog"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" /></a>
