@@ -10,11 +10,7 @@
   
 
   <!-- SOCIAL BADGES WITH HOVER ANIMATION -->
-  <a href="https://www.linkedin.com/in/fahadkhanprog"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" /></a>
-  <a href="https://www.facebook.com/fahad.khan.65017/about/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" /></a>
-  <a href="mailto:fahad.khan@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" /></a>
-  <img src="https://komarev.com/ghpvc/?username=fahad-smto&style=for-the-badge&color=00c6ff&label=PROFILE+VIEWS" />
-
+  
   <!-- ANIMATED DIVIDER -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </div>
