@@ -1,7 +1,7 @@
  <div align="center">
   <!-- ANIMATED HEADER BANNER -->
  
-
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=280&section=header&text=Fahad%20Khan&fontSize=70&fontColor=ffffff&stroke=00c6ff&strokeWidth=1&fontAlignY=35&desc=MERN%20Stack%20Architect%20%7C%20Full-Stack%20Alchemist&descAlignY=55&descSize=20&animation=twinkling" />
   <!-- MAIN TITLE WITH TYPING ANIMATION -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&pause=1000&color=00c6ff&center=true&vCenter=true&width=700&lines=React+%7C+Node.js+%7C+MongoDB+%7C+Express;MERN+Stack+Specialist+%F0%9F%9A%80;Building+Scalable+Full-Stack+Apps;FoodShare+%7C+TowerTrack+%7C+Open+Source;Code.+Create.+Innovate.+%F0%9F%92%A1" alt="Typing SVG" />
