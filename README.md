@@ -4,7 +4,7 @@
 
   <!-- MAIN TITLE WITH TYPING ANIMATION -->
   <a href="https://git.io/typing-svg">
-   
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&pause=1000&color=00c6ff&center=true&vCenter=true&width=700&lines=React+%7C+Node.js+%7C+MongoDB+%7C+Express;MERN+Stack+Specialist+%F0%9F%9A%80;Building+Scalable+Full-Stack+Apps;FoodShare+%7C+TowerTrack+%7C+Open+Source;Code.+Create.+Innovate.+%F0%9F%92%A1" alt="Typing SVG" />
   </a>
 
   
