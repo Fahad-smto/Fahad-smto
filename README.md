@@ -29,7 +29,7 @@ const fahad = {
   learning:   ["Next.js", "TypeScript", "Docker"],
   collab:     "FoodShare — MERN Food Donation Platform",
   askMeAbout: ["React", "Node.js", "MongoDB", "Express", "REST APIs"],
-  contact:    "fahad.khan@example.com",
+  contact:    "simanto.smto.prog@gmail.com",
   funFact:    "I debug with console.log and I'm not ashamed 😅"
 };
 ```
