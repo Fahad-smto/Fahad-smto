@@ -253,12 +253,7 @@ Connecting restaurants with surplus food to local shelters and individuals, redu
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/fahad-smto/fahad-smto/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/fahad-smto/fahad-smto/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake" src="https://github.com/fahad-smto/fahad-smto/blob/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-</picture>
-
+ 
 </div>
 
 ---
