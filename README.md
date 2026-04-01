@@ -249,12 +249,7 @@ Connecting restaurants with surplus food to local shelters and individuals, redu
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
  
-</div>
 
 ---
 
