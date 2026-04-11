@@ -206,19 +206,6 @@ Connecting restaurants with surplus food to local shelters and individuals, redu
 ---
 
 
-
-
-## 📝 Articles & Writing
-
-| Title | Read Time |
-|-------|-----------|
-| [JWT Authentication in MERN Stack: Complete Guide](https://example.com) | 8 min read |
-| [10 React Performance Optimization Tips](https://example.com) | 6 min read |
-| [Deploying MERN Apps to Production](https://example.com) | 10 min read |
-| [MongoDB Aggregation Pipeline Explained](https://example.com) | 7 min read |
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
