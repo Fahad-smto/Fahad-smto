@@ -235,6 +235,6 @@ Connecting restaurants with surplus food to local shelters and individuals, redu
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=footer&text=Open%20for%20Collaborations%20%F0%9F%9A%80&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=footer&text=Happy%20%20coding%20%F0%9F%9A%80&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 </div>
