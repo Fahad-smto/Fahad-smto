@@ -205,15 +205,8 @@ Connecting restaurants with surplus food to local shelters and individuals, redu
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=fahad-smto&theme=tokyonight&no-frame=true&column=6&margin-w=10&title_color=6366f1"/>
-
-</div>
-
----
 
 ## 📝 Articles & Writing
 
