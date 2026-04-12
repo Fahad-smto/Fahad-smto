@@ -12,7 +12,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/fahad.khan.65017/about/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fahad.khan@example.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=fahad-smto&style=for-the-badge&color=6366f1&label=Profile+Views)](https://github.com/fahad-smto)
+ 
 
 </div>
 
