@@ -1,6 +1,7 @@
  <div align="center">
 
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Fahad%20Khan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Full-Stack%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Apps+%F0%9F%9A%80;MERN+Stack+Specialist+%F0%9F%94%A5;React+%7C+Node.js+%7C+MongoDB+%7C+Express;Clean+Code+%7C+Real+Problems+%7C+Real+Solutions;Always+Learning+%7C+Always+Building+%E2%9A%A1)](https://git.io/typing-svg)
