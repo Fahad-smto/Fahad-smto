@@ -199,7 +199,7 @@ Connecting restaurants with surplus food to local shelters and individuals, redu
 <br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahad-smto&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1" width="40%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fahad-smto&bg_color=0d1117&color=6366f1&line=8b5cf6&point=06b6d4&area=true&hide_border=true" width="57%"/>
+ 
 
 </div>
 
