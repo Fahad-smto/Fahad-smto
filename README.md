@@ -197,8 +197,7 @@ Connecting restaurants with surplus food to local shelters and individuals, redu
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahad-smto&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=8b5cf6&currStreakLabel=6366f1" width="48%"/>
 
 <br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahad-smto&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1" width="40%"/>
+ 
  
 
 </div>
