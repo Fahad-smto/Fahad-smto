@@ -1,6 +1,7 @@
 
 
 
+ <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Fahad%20Khan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Full-Stack%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 <br/>
