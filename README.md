@@ -1,113 +1,70 @@
-<div align="center">
+# Hi there, I'm Fahad Khan! 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hey%20There!%20I'm%20[Your%20Name]%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=55&descSize=20" width="100%"/>
+### 🚀 Full-Stack Web Developer | Building Scalable Web Applications
 
-</div>
-
----
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=600&lines=MERN+Stack+Developer+%F0%9F%9A%80;Learning+TypeScript+%F0%9F%93%98;Exploring+Prisma+%26+Docker+%F0%9F%90%B3;Building+Cool+Stuff+Every+Day+%E2%9C%A8)](https://git.io/typing-svg)
-
-</div>
+I am a passionate Full-Stack Web Developer specializing in modern JavaScript technologies. Having mastered the **MERN Stack**, I am currently leveling up my engineering skills by deep-diving into **TypeScript**, type-safe ORMs like **Prisma**, and containerization with **Docker** to build robust, production-ready applications.
 
 ---
 
-## 🧑‍💻 About Me
+## 🛠️ My Tech Stack
 
-```javascript
-const developer = {
-  name:        "Your Name",
-  role:        "Full Stack Web Developer",
-  stack:       ["MongoDB", "Express.js", "React", "Node.js"],
-  learning:    ["TypeScript", "Prisma", "Docker"],
-  passion:     "Building scalable web applications",
-  funFact:     "I debug with console.log and I'm not ashamed 😄",
-};
-```
-
----
-
-## 🛠️ Tech Stack
-
-### ✅ Proficient In
+### 🌐 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,git,github,vscode&theme=dark" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
 
-### 📚 Currently Learning
+### ⚙️ Backend & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,prisma,docker&theme=dark" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
+
+### 📈 Currently Learning & Leveling Up
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+---
+
+## 🏗️ Featured Projects
+
+### 🎓 **SkillBridge**
+> A comprehensive online learning platform application designed to bridge the gap between students and instructors.
+* **Frontend:** React, Tailwind CSS
+* **Backend:** Node.js, Express, MongoDB
+* *Key Feature:* Seamless course management and clean, interactive dashboards.
+
+### 🗼 **TowerTrack**
+> A specialized tracking and management web application.
+* **Stack:** Full-Stack web technologies optimized for real-time tracking updates and clear data visualization.
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="Fahad's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+</p>
 
 ---
 
-## 🚀 What I'm Up To
+## 🤝 Connect with Me
 
-- 🔭 Building full-stack apps with the **MERN** stack
-- 🌱 Leveling up with **TypeScript** for type-safe code
-- 🗄️ Exploring **Prisma ORM** for elegant database management
-- 🐳 Containerizing apps with **Docker**
-- 💬 Ask me about **React, Node.js, MongoDB, REST APIs**
-- ⚡ Fun fact: Coffee + Code = Magic ☕
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=667eea&line=764ba2&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Portfolio](https://img.shields.io/badge/Portfolio-667EEA?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=667eea&style=for-the-badge&label=Profile+Views)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer" width="100%"/>
-
-</div>
+⚡ *Fun fact: I love optimizing database schemas and making web applications deploy flawlessly!*
