@@ -1,99 +1,106 @@
-&lt;!-- HEADER WAVE --&gt;
-&lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Fahad%20Khan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer&descAlignY=55&descSize=18" width="100%" /&gt;
+<div align="center">
 
-&lt;!-- TYPING ANIMATION --&gt;
-&lt;p align="center"&gt;
-  &lt;img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;TypeScript+%7C+Prisma+%7C+Docker;Building+Scalable+Web+Apps;Clean+Architecture+Enthusiast" alt="Typing Animation" /&gt;
-&lt;/p&gt;
+# Hi, I'm Fahad Khan 👋
 
-&lt;p align="center"&gt;
-  &lt;img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=667eea&style=flat-square" alt="Profile Views" /&gt;
-&lt;/p&gt;
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3178C6&center=true&vCenter=true&width=520&lines=Full-Stack+Web+Developer;MERN+Stack+Engineer;Building+Scalable+Production+Apps;TypeScript+%7C+Prisma+%7C+Docker" alt="Typing SVG" />
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=6,11,20&text=&section=header" width="100%" />
+
+</div>
 
 ## 🚀 About Me
 
-&gt; **Full-Stack Web Developer** | Building Scalable, Production-Ready Web Applications
+I craft **high-performance, production-ready** web applications using the MERN stack, and I'm currently leveling up with **TypeScript**, **Prisma**, and **Docker** to bring type safety, robust data modeling, and containerized deployments to everything I build.
 
-I craft high-performance applications using the **MERN Stack**, and I'm currently leveling up with **TypeScript**, **Prisma**, and **Docker** to bring type safety, robust data modeling, and containerized deployments to my projects.
-
-- 🎨 **Frontend:** React, Next.js, Tailwind CSS
-- ⚙️ **Backend:** Node.js, Express, MongoDB, PostgreSQL
-- 🐳 **DevOps:** Docker, type-safe architectures
-- ⚡ **Fun fact:** I love optimizing database schemas and making web applications deploy flawlessly!
+- 🎨 Build responsive, interactive frontends with **React**, **Next.js**, and **Tailwind CSS**
+- ⚙️ Design scalable backends with **Node.js**, **Express**, and **MongoDB / PostgreSQL**
+- 🧱 Implement clean architecture, optimized schemas, and smooth user experiences
+- 📦 Containerize apps with **Docker** and write type-safe code in **TypeScript**
+- 💡 Genuinely enjoy optimizing database schemas and shipping flawless deployments
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
-&lt;p align="left"&gt;
-  &lt;img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /&gt;
-  &lt;img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /&gt;
-  &lt;img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /&gt;
-&lt;/p&gt;
+<div align="center">
 
-### Backend & Databases
-&lt;p align="left"&gt;
-  &lt;img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /&gt;
-&lt;/p&gt;
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind" />
 
-### Leveling Up
-&lt;p align="left"&gt;
-  &lt;img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /&gt;
-&lt;/p&gt;
+**Backend & Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
+
+**Currently Leveling Up**
+<br/>
+<img src="https://skillicons.dev/icons?i=ts,prisma,docker" />
+
+</div>
 
 ---
 
 ## 🏗️ Featured Projects
 
-### 🎓 SkillBridge
-&gt; An online learning platform connecting students and instructors with seamless course management and interactive dashboards.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- **Frontend:** React + Tailwind CSS
-- **Backend:** Node.js + Express + MongoDB
-- ✨ Real-time updates, clean UI, intuitive navigation
+### 🎓 SkillBridge
+An online learning platform connecting students and instructors with seamless course management and interactive dashboards.
+
+**Stack:** React · Tailwind CSS · Node.js · Express · MongoDB
+**Highlights:** Real-time updates, clean UI, intuitive navigation
+
+</td>
+<td width="50%" valign="top">
 
 ### 🗼 TowerTrack
-&gt; A specialized tracking and management application optimized for real-time data visualization.
+A specialized tracking and management application optimized for real-time data visualization.
 
-- **Stack:** Full-Stack JavaScript with real-time sync and clear data dashboards
-- ✨ Efficient data flow, responsive design, scalable architecture
+**Stack:** Full-Stack JavaScript with real-time sync
+**Highlights:** Efficient data flow, responsive design, scalable architecture
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" /&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" /&gt;
-&lt;/p&gt;
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Fahad's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+</div>
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="100%" /&gt;
-&lt;/p&gt;
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="90%" />
+</div>
+
+> 💡 Replace `YOUR-GITHUB-USERNAME` with your actual GitHub username in the URLs above.
 
 ---
 
 ## 🤝 Let's Connect
 
-&lt;p align="left"&gt;
-  &lt;a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank"&gt;
-    &lt;img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /&gt;
-  &lt;/a&gt;
-  &lt;a href="mailto:your.email@example.com"&gt;
-    &lt;img src="https://img.shields.io/badge/Email-D14436?style=for-the-badge&logo=gmail&logoColor=white" /&gt;
-  &lt;/a&gt;
-&lt;/p&gt;
+<div align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14436?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer" width="100%" />
+</div>
 
-&lt;!-- FOOTER WAVE --&gt;
-&lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%" /&gt;
+<div align="center">
+  <sub>Thanks for stopping by — always open to interesting builds and collaborations! ⚡</sub>
+</div>
