@@ -66,25 +66,7 @@ A specialized tracking and management application optimized for real-time data v
 </table>
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Fahad's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="90%" />
-</div>
-
-> 💡 Replace `YOUR-GITHUB-USERNAME` with your actual GitHub username in the URLs above.
-
----
+ 
 
 ## 🤝 Let's Connect
 
